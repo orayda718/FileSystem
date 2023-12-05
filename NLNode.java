@@ -1,5 +1,5 @@
 /**
- * Assignment 4 CS1027
+ * Assignment 4
  * Due: 4.6.2023
  * Description: This class represents the nodes of a non-linear data structure
  * @author Orayda Shagifa
